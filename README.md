@@ -23,6 +23,13 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 - **Projects Showcase:** Detailed display of selected projects with links to their live versions and GitHub repositories.
 - **Contact Form:** Users can easily contact me through the embedded contact form.
 - **Dynamic Content:** Uses JavaScript to create an engaging user experience with smooth transitions.
+
+## Demo
+
+![NETFLIX Clone](https://github.com/Priyanshu0714/myPortfolio-Public/blob/main/Screenshot1.png)
+![MORE IMAGES](https://github.com/Priyanshu0714/myPortfolio-Public/blob/main/Screenshot2.png)
+![](https://github.com/Priyanshu0714/myPortfolio-Public/blob/main/Screenshot3.png)
+![](https://github.com/Priyanshu0714/myPortfolio-Public/blob/main/Screenshot4.png)
   
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
