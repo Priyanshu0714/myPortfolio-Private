@@ -47,5 +47,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Feel free to reach out to me through the contact form on the portfolio or connect with me at:
 
 - **Email:** choudhary.priyanshu1401@gmail.com
-- **GitHub:** Priyanshu0714
-- **LinkedIn:** priyanshu-choudhary-93b68128b
+- **GitHub:** [Priyanshu0714](https://github.com/Priyanshu0714)
+- **LinkedIn:** [priyanshu-choudhary-93b68128b](https://www.linkedin.com/in/priyanshu-choudhary-93b68128b/)
