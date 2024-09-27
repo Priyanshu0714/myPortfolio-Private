@@ -30,15 +30,15 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 - **Database:** MongoDB
 - **Hosting:** Render
 
-#Installation
+# Installation
 To run the portfolio locally, follow these steps:
 
-#License
+# License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-#Contact
+# Contact
 Feel free to reach out to me through the contact form on the portfolio or connect with me at:
 
-Email: choudhary.priyanshu1401@gmail.com
-GitHub: Priyanshu0714
-LinkedIn: priyanshu-choudhary-93b68128b
+- **Email:** choudhary.priyanshu1401@gmail.com
+- **GitHub:** Priyanshu0714
+- **LinkedIn:** priyanshu-choudhary-93b68128b
