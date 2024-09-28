@@ -37,8 +37,6 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 - **Database:** MongoDB
 - **Hosting:** Render
 
-# Installation
-To run the portfolio locally, follow these steps:
 
 # License
 This project is licensed under the MIT License – see the LICENSE file for details.
